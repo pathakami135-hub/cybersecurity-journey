@@ -1,37 +1,55 @@
 # 🛡️ Cybersecurity Journey
 
-Hi! I'm Ami Pathak, an IMBA Cyber Security student.
+Hi! I'm **Ami Pathak**, an IMBA Cyber Security student.
 
-This repository documents my cybersecurity learning journey through hands-on labs, TryHackMe rooms, networking projects, Python scripts, and CTF challenges.
+This repository documents my cybersecurity learning journey through hands-on labs, TryHackMe rooms, networking, Python, OSINT, CTFs, digital forensics, and security projects.
 
 ## 🎯 Goals
-- Complete TryHackMe learning paths
-- Learn Linux and Networking
-- Practice Python for Cybersecurity
+
+- Complete cybersecurity learning paths
+- Build strong networking and Linux fundamentals
+- Practice Python for cybersecurity
+- Learn OSINT and digital investigation techniques
 - Participate in CTFs
-- Build a strong cybersecurity portfolio
+- Build practical cybersecurity projects
+- Develop a strong cybersecurity portfolio
 
-## 📂 Repository Structure
+## 📚 Areas I'm Learning
 
-- 📁 TryHackMe
-- 📁 Networking
-- 📁 Linux
-- 📁 Windows
-- 📁 Python
-- 📁 Wireshark
-- 📁 Nmap
-- 📁 CTF
-- 📁 Notes
+- 🛡️ Cybersecurity Fundamentals
+- 🌐 Networking
+- 🐧 Linux
+- 🪟 Windows
+- 🐍 Python
+- 🔎 OSINT
+- 🧪 Digital Forensics
+- 🦈 Wireshark
+- 📡 Nmap
+- 🏁 CTFs
 
-## 📈 Progress
+## 🧪 TryHackMe Progress
 
-- [ ] Pre Security
+- [x] Malware Classification
+- [ ] Phishing Emails
 - [ ] Linux Fundamentals
 - [ ] Windows Fundamentals
 - [ ] Network Fundamentals
 - [ ] SOC Level 1
 - [ ] Jr Penetration Tester
 
----
-⭐ This repository will grow as I continue learning cybersecurity.# cybersecurity-journey
-My cybersecurity learning journey with TryHackMe, CTFs, Python projects, networking labs, and security notes.
+## 📂 Repository Structure
+
+```text
+cybersecurity-journey/
+│
+├── TryHackMe/
+├── Networking/
+├── Linux/
+├── Windows/
+├── Python/
+├── OSINT/
+├── Wireshark/
+├── Nmap/
+├── CTF/
+├── Notes/
+└── Projects/
